@@ -1,2 +1,2 @@
 # android-project
- Projeto android
+ Projeto android, criado para colocar em praticas parte do aprendizado.
